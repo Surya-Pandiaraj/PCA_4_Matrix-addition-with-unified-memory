@@ -521,12 +521,12 @@ int main(int argc, char **argv)
 
 With MemSet
 
-<img width="933" height="108" alt="image" src="https://github.com/user-attachments/assets/ae94e3a6-9c53-441e-b626-4cea177fd078" />
+<img width="952" height="127" alt="image" src="https://github.com/user-attachments/assets/69b2273a-6207-453f-a462-97131f905bec" />
 
 
 Without MemSet
 
-<img width="877" height="99" alt="image" src="https://github.com/user-attachments/assets/94c71cc3-8512-4fcc-84be-bb13aa692fa8" />
+<img width="911" height="112" alt="image" src="https://github.com/user-attachments/assets/c3474861-64b9-4b2b-978d-70f226ee7c19" />
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less time.
