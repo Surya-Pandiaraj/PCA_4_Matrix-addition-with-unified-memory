@@ -1,1 +1,6 @@
-# PCA_4_Matrix-addition-with-unified-memory
+### NAME: SURYA P <br>
+### REG NO: 212224230280 <br> 
+### Date: 17/11/2026
+
+## EX. No. 4 : MATRIX ADDITION WITH UNIFIED MEMORY
+
